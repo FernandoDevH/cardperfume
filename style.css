@@ -84,6 +84,8 @@ input {
     color: #ffffff;
     align-items: center;
     border:none;
-    padding: 2.5rem 0;
+    padding: 2.5rem 10rem;
     font: bold;
+    cursor: pointer;
 }
+
