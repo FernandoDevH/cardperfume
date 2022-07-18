@@ -29,8 +29,8 @@ body{
 main{
     background: var(--branco);
     display:flex;
-    max-width: 60rem;
-    height: 80vh;
+    max-width: 62rem;
+    height: 45rem;
     margin-top:5rem;
     border-radius: 0.8rem;
 
@@ -69,7 +69,8 @@ div#preco{
 
 #imagem img{
     width:30rem;
-    height: 100%;
+    height: 45rem;
+
     border-radius: 1rem 0 0 1rem;
 
 }
